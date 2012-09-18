@@ -1,4 +1,4 @@
-This is a [Sublime Text][sublime] package which includes a a few snippets for CakePHP development.
+[Sublime Text][sublime] package which includes a a few snippets for CakePHP development. Adapted from: https://github.com/mpmont/ci-snippets
 
 ## Installation ##
 

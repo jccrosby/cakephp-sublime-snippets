@@ -9,7 +9,7 @@ class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:ModelName}} extends AppModel {
 }
 
 /* End of file ${1/(.+)/\l$1/:ModelName}.php */
-/* Location: ./application/controllers/${1/(.+)/\l$1/:ModelName}.php */
+/* Location: app/controllers/${1/(.+)/\l$1/:ModelName}.php */
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>model</tabTrigger>
