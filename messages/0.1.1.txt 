@@ -1,1 +1,5 @@
+CakePHP Snippets 0.0.2 Changelog:
+* Added App::uses for model and controller
+* Added file comments
+
 CakePHP Snippets 0.0.1 Changelog:

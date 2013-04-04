@@ -2,6 +2,12 @@
    <content><![CDATA[
 <?php
 
+App::uses('AppModel', 'Model');
+
+/**
+ * ${1/(.+)/\l$1/:ModelName} Model
+ *
+ */
 class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:ModelName}} extends AppModel {
 
     $0

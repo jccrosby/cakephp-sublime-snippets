@@ -2,6 +2,12 @@
     <content><![CDATA[
 <?php 
 
+App::uses('AppController', 'Controller');
+
+/**
+ * ${1/(.+)/\l$1/:Controllername} Controller
+ *
+ */
 class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:Controllername}} extends AppController {
 
     public function index()
